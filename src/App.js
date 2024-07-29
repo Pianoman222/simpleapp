@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   // Variables
-  const title = "Learning JavaScript with React";
+  const title = "mami pupi";
   let number1 = 10;
   let number2 = 20;
 
